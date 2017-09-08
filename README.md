@@ -1,0 +1,1 @@
+See [grails-core#10786](https://github.com/grails/grails-core/issues/10786).
